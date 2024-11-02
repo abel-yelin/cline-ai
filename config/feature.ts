@@ -7,36 +7,36 @@ import { MdCloudUpload } from "react-icons/md";
 
 export const FEATURES_EN = [
   {
-    title: "Open Source Advantage",
+    title: "claude dev",
     content: "Completely free with a wealth of customization options.",
     icon: BsGithub,
   },
   {
-    title: "Responsive Design",
+    title: "Aider",
     content:
       "Templates meticulously designed to ensure optimal display on any device.",
     icon: FaMobileScreenButton,
   },
   {
-    title: "Easy Customization",
+    title: "crawl4ai",
     content:
       "Effortlessly change colors, fonts, and layouts without any coding knowledge.",
     icon: FaToolbox,
   },
   {
-    title: "SEO Optimized",
+    title: "bolt new",
     content:
       "Templates built with search engine optimization in mind to enhance your website's discoverability.",
     icon: MagnetIcon,
   },
   {
-    title: "One-Click Deployment",
+    title: "Cursor",
     content:
       "Tightly integrated with leading web hosting services for instant website publishing.",
     icon: MdCloudUpload,
   },
   {
-    title: "Globalization Support",
+    title: "V0",
     content:
       "Supports multiple languages, making your website attractive to a global audience.",
     icon: FaEarthAsia,
