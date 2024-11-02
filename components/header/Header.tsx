@@ -13,8 +13,11 @@ import { ThemedButton } from "../ThemedButton";
 const links = [
   { label: "Features", href: "#Features" },
   { label: "blog", href: "#Pricing" },
-  { label: "Testimonials", href: "#Testimonials" },
-  { label: "FAQ", href: "#FAQ" },
+  { label: "V0", href: "#Testimonials" },
+  { label: "Crawl4AI", href: "#Testimonials" },
+  { label: "Bolt New", href: "#FAQ" },
+  { label: "Aider", href: "#FAQ" },
+  { label: "Cline", href: "#FAQ" },
 ];
 
 const Header = () => {
