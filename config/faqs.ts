@@ -10,55 +10,46 @@ export const FAQS_EN = [
       "1. Install the Cline extension from the VS Marketplace.2. Configure your preferred API provider in the extension settings.3. Open the Cline sidebar panel and start interacting with your AI assistant.",
   },
   {
-    title: "Why is a landing page important?",
+    title: "Why is Cline important?",
     content:
       "Landing pages are crucial for any marketing strategy because they provide a targeted platform for converting visitors into leads or customers. Unlike general websites, landing pages focus the visitor's attention on a single offer, minimizing distractions and guiding them towards a specific action. This focused approach can significantly increase the effectiveness of your marketing campaigns, improve your ad performance, and enhance the overall user experience by providing them with the information or solution they were seeking.",
   },
   {
-    title: "Why choose our landing page boilerplate?",
+    title: "Cursor, Cline, Aider, Bolt new & V0 ，Why choose Cline?",
     content:
       "Our landing page template is free, open-source, and powerful, making it ideal for various projects and marketing campaigns. It allows you to create a landing page in under an hour, simplifying the development process while also offering a high degree of customization and responsiveness.",
   },
   {
-    title: "What skills do I need to use this template?",
+    title: "What skills do I need to use Cline?",
     content:
       "To use our landing page template, you only need basic web editing skills. The design of the template is intended to be easy for non-technical users to get started with, while also providing high customizability for experienced developers.",
   },
   {
-    title: "How do I get started with the landing page template?",
+    title: "How do I get started with Cline?",
     content:
       "Getting started is very simple. Just download the source code from our GitHub repository, edit the text and images as needed, and then deploy it to your server.",
   },
   {
-    title: "Does the landing page template support responsive design?",
+    title: "Does Cline support responsive design?",
     content:
       "Yes, our landing page template supports responsive design, ensuring that your webpage displays perfectly on a variety of devices, whether desktop, tablet, or smartphone.",
   },
   {
-    title: "Can I use this template for a commercial project?",
+    title: "Can I use Cline for a commercial project?",
     content:
       "Absolutely. Our template is open-source, and you can use it for any type of project, including commercial purposes. We encourage users to utilize this template to create and optimize their online projects.",
   },
   {
-    title: "Do you offer any customization services?",
+    title: "Does Cline offer any customization services?",
     content:
       "We accept paid custom development of landing pages. Please contact us via email at weijunext@gmail.com or Twitter @weijunext.",
   },
   {
-    title: "Are there any restrictions on using this template?",
+    title: "Are there any restrictions on using Cline?",
     content:
       "No. You are free to use and modify this template. At the same time, we encourage developers to submit PRs to help improve this landing page template together.",
   },
-  {
-    title: "Does this template include SEO optimization features?",
-    content:
-      "Yes, our template includes basic SEO optimization features to help your webpage achieve better rankings in search engines.",
-  },
-  {
-    title: "What should I do if I encounter problems using the template?",
-    content:
-      "If you encounter any issues while using the template, please contact us via Twitter @weijunext.",
-  },
+  
 ];
 
 export const FAQS_ZH = [
