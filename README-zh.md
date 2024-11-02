@@ -58,13 +58,13 @@ npm run dev
 
 **全栈工程师，Next.js 开源手艺人，AI降临派。**
 
-[博客](https://weijunext.com)  
+[博客](https://www.aibesttop.com/)  
 [Github](https://github.com/weijunext)  
 [Twitter/X](https://twitter.com/weijunext)  
 [Medium](https://medium.com/@weijunext)  
 [掘金](https://juejin.cn/user/26044008768029)  
 [知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
-[微信交流群](https://weijunext.com/make-a-friend)  
+[微信交流群](https://www.aibesttop.com//make-a-friend)  
 
 
 如果这个项目对您有帮助，请给仓库点个star，能赞助一下就更好了👇

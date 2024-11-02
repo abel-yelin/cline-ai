@@ -16,12 +16,12 @@ const baseSiteConfig = {
   authors: [
     {
       name: "weijunext",
-      url: "https://weijunext.com",
+      url: "https://www.aibesttop.com/",
       twitter: 'https://twitter.com/weijunext',
     }
   ],
   creator: '@weijunext',
-  openSourceURL: 'https://github.com/weijunext/landing-page-boilerplate',
+  openSourceURL: 'https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev',
   themeColors: [
     { media: '(prefers-color-scheme: light)', color: 'white' },
     { media: '(prefers-color-scheme: dark)', color: 'black' },
@@ -43,13 +43,13 @@ const baseSiteConfig = {
     { name: 'github', href: "https://github.com/weijunext/", icon: BsGithub },
     { name: 'buyMeCoffee', href: "https://www.buymeacoffee.com/weijunext", icon: SiBuymeacoffee },
     { name: 'juejin', href: "https://juejin.cn/user/26044008768029", icon: SiJuejin },
-    { name: 'weChat', href: "https://weijunext.com/make-a-friend", icon: BsWechat }
+    { name: 'weChat', href: "https://www.aibesttop.com//make-a-friend", icon: BsWechat }
   ],
   footerProducts: [
     { url: 'https://phcopilot.ai/', name: 'Product Hunt Copilot' },
     { url: 'https://smartexcel.cc/', name: 'Smart Excel' },
     { url: 'https://landingpage.weijunext.com/', name: 'Landing Page Boilerplate' },
-    { url: 'https://weijunext.com/', name: 'J实验室' },
+    { url: 'https://www.aibesttop.com//', name: 'J实验室' },
     { url: 'https://nextjscn.org/', name: 'Next.js 中文文档' },
     { url: 'https://nextjs.weijunext.com/', name: 'Next.js Practice' },
     { url: 'https://github.com/weijunext/indie-hacker-tools', name: 'Indie Hacker Tools' },
