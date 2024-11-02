@@ -3,16 +3,16 @@ import { BsGithub, BsTwitterX, BsWechat } from "react-icons/bs";
 import { MdEmail } from "react-icons/md";
 import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 
-const OPEN_SOURCE_URL = 'https://github.com/weijunext/landing-page-boilerplate'
+const OPEN_SOURCE_URL = 'https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev'
 
 const baseSiteConfig = {
-  name: "Landing page boilerplate",
+  name: "Cline AI",
   description:
-    "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour.",
+    "A free, open-source, and powerful cline vscode extension.cline ai for cline code. A dedicated learning platform focused on CLine tutorials, reviews, practical tips, user feedback, and the latest news",
   url: "https://landingpage.weijunext.com",
   ogImage: "https://landingpage.weijunext.com/og.png",
   metadataBase: '/',
-  keywords: ["landing page boilerplate", "landing page template", "awesome landing page", "next.js landing page"],
+  keywords: ["cline ai", "cline code", "cline vscode", "cline github"],
   authors: [
     {
       name: "weijunext",

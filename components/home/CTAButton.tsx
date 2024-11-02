@@ -5,14 +5,14 @@ import Link from "next/link";
 const CTAButton = ({ locale }: { locale: any }) => {
   return (
     <Link
-      href="https://github.com/weijunext/landing-page-boilerplate"
+      href="https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev"
       target="_blank"
       rel="noopener noreferrer nofollow"
     >
       <Button
         variant="default"
-        className="flex items-center gap-2 bg-blue-500 hover:bg-blue-600 text-white"
-        aria-label="Get Boilerplate"
+        className="flex items-center gap-4 bg-blue-500 hover:bg-blue-600 text-white"
+        aria-label="Get Cline"
       >
         <RocketIcon />
         {locale.title}

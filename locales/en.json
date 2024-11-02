@@ -1,16 +1,16 @@
 {
   "Hero": {
-    "title1": "Ship",
-    "title2": "Landing Page",
-    "title3": "Fast",
-    "description": "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour."
+    "title1": "Claude",
+    "title2": "+ Cline +",
+    "title3": "Openrouter",
+    "description": "A free, open-source, and powerful cline vscode extension.cline ai for cline code. A dedicated learning platform focused on CLine tutorials, reviews, practical tips, user feedback, and the latest news"
   },
   "SocialProof": {
-    "maker": "makers ship fast"
+    "maker": "learning Cline faster"
   },
   "Showcase": {
     "title": "Showcase",
-    "description": "Join 1000+ Makers Boosting Conversions with Our Landing Page Boilerplate"
+    "description": "This website helps you learn Cline faster."
   },
   "Feature": {
     "title": "Features"
@@ -42,6 +42,6 @@
     "description6": "!"
   },
   "CTAButton": {
-    "title": "Get Boilerplate"
+    "title": "Get Cline"
   }
 }
