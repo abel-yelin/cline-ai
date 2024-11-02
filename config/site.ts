@@ -8,7 +8,7 @@ const OPEN_SOURCE_URL = 'https://marketplace.visualstudio.com/items?itemName=sao
 const baseSiteConfig = {
   name: "Cline AI & Cline vscode",
   description:
-    "A free, open-source, and powerful cline vscode extension.cline ai for cline code. A dedicated learning platform focused on CLine tutorials, reviews, practical tips, user feedback, and the latest news",
+    "cline vscode extension.cline ai for cline code. A dedicated learning platform focused on CLine tutorials, reviews, practical tips, user feedback, and the latest news",
   url: "https://landingpage.weijunext.com",
   ogImage: "https://landingpage.weijunext.com/og.png",
   metadataBase: '/',
