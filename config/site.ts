@@ -6,7 +6,7 @@ import { SiBuymeacoffee, SiJuejin } from "react-icons/si";
 const OPEN_SOURCE_URL = 'https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev'
 
 const baseSiteConfig = {
-  name: "Cline AI",
+  name: "Cline AI & Cline vscode",
   description:
     "A free, open-source, and powerful cline vscode extension.cline ai for cline code. A dedicated learning platform focused on CLine tutorials, reviews, practical tips, user feedback, and the latest news",
   url: "https://landingpage.weijunext.com",
