@@ -1,13 +1,13 @@
 export const FAQS_EN = [
   {
-    title: "What is a landing page?",
+    title: "What is Cline?",
     content:
-      "A landing page is a standalone web page created specifically for a marketing or advertising campaign. It's where a visitor 'lands' after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web. Unlike web pages, which typically have many goals and encourage exploration, landing pages are designed with a single focus or goal, known as a call to action (CTA).",
+      "Cline is an AI assistant for VSCode that can use your CLI and Editor to help with complex software development tasks. This wiki serves as a central hub for information about Cline, its features, and how to use it effectively.",
   },
   {
-    title: "How can I create a landing page?",
+    title: "How can I install Cline?",
     content:
-      "Creating a landing page can be done in several steps: 1) Choose a landing page template that fits your campaign's needs or start from scratch. 2) Identify your landing page's objective and CTA. 3) Write compelling content that urges visitors to take action. 4) Incorporate design elements such as images, videos, and forms that align with your message. 5) Test your page's usability and mobile responsiveness. 6) Use SEO best practices to help your page get found. 7) Publish your landing page and monitor its performance to make adjustments as needed.",
+      "1. Install the Cline extension from the VS Marketplace.2. Configure your preferred API provider in the extension settings.3. Open the Cline sidebar panel and start interacting with your AI assistant.",
   },
   {
     title: "Why is a landing page important?",
